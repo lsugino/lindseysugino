@@ -11,3 +11,11 @@
  *= require_self
  *= require_tree .
  */
+
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Lato', sans-serif;
+	word-spacing: 2px;
+	letter-spacing: 1px;
+}

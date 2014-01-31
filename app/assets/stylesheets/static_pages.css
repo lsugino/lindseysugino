@@ -6,6 +6,9 @@
   top: 50%;
   left: 50%;
   margin-left: -210px;  /*margin is -0.5 * dimension */
-  margin-top: -65px; 
+  margin-top: -115px; 
 }
 
+.main_header {
+	font-size: 3em;
+}
