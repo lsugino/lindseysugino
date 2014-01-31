@@ -1,0 +1,11 @@
+.container {
+	position: absolute;
+	text-align: center;
+  width: 400px;
+  height: 200px;
+  top: 50%;
+  left: 50%;
+  margin-left: -210px;  /*margin is -0.5 * dimension */
+  margin-top: -65px; 
+}
+
