@@ -11,10 +11,18 @@
 
 .main_header {
 	font-size: 3.5em;
-  margin-bottom: 25px; 
+  margin-bottom: 27px; 
 }
 
 ul {
   padding-left: 0;
 	list-style: none;
+}
+
+.octocat {
+  fill: pink !important;
+}
+
+.octocat:hover {
+  fill: #FF1493 !important;
 }
