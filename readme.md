@@ -1,5 +1,3 @@
 My Personal Website
 
-Includes:
-	- Bio
-	- links to my Github, Linkedin & Twitter
+Includes: Bio + Links to my Github, Linkedin & Twitter
