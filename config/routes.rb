@@ -1,7 +1,7 @@
 Lindseysugino::Application.routes.draw do
   root 'static_pages#home'
 
-  get 'static_pages/home'
+  get '/' => 'static_pages#home'
   get '/about' => 'static_pages#about'
 
   # The priority is based upon order of creation: first created -> highest priority.
