@@ -1,14 +1,36 @@
 .container {
 	position: absolute;
 	text-align: center;
-  width: 400px;
-  height: 200px;
+  width: 500px;
+  height: 350px;
   top: 50%;
   left: 50%;
-  margin-left: -210px;  /*margin is -0.5 * dimension */
-  margin-top: -115px; 
+  margin-left: -260px;
+  margin-top: -155px; 
 }
 
 .main_header {
-	font-size: 3em;
+	font-size: 4em;
+  margin-bottom: 22px; 
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  padding-left: 0;
+  margin-top: 27px;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  color: pink;
+}
+
+a:hover {
+  color: #F505AD;
 }
