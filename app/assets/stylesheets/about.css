@@ -1,16 +1,15 @@
 .about_well {
   text-align: center;
   width: 60%;
-  /*height: 80%;*/
   margin-left: 20%;
   margin-right: 20%;
 }
 
 #about_header {
   font-weight: bold;
-  font-size: 2.8em;
+  font-size: 3.2em;
   color: #F505AD;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
 }
 
 #tagline {
@@ -21,4 +20,8 @@
 
 p {
   font-size: 1.1em;
+}
+
+#back_link {
+  font-size: 1.3em;
 }
