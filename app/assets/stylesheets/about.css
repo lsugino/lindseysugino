@@ -1,9 +1,9 @@
-.about_container {
+.about_well {
   text-align: center;
-  width: 70%;
-  height: 80%;
-  margin-left: 15%;
-  margin-right: 15%;
+  width: 60%;
+  /*height: 80%;*/
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 #about_header {
@@ -17,4 +17,8 @@
   font-size: 1.5em;
   margin-top: 7px;
   margin-bottom: 5px;
+}
+
+p {
+  font-size: 1.1em;
 }
