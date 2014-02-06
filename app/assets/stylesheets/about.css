@@ -1,13 +1,9 @@
 .about_container {
-	position: absolute;
-	text-align: center;
-  width: 500px;
-  height: 550px;
-  top: 50%;
-  left: 50%;
-  margin-left: -260px;
-  margin-top: -270px; 
-  margin-bottom: 50px;
+  text-align: center;
+  width: 70%;
+  height: 80%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 #about_header {
