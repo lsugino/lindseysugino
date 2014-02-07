@@ -56,16 +56,14 @@ strong {
     width: 90%;
   }
   .main_header {
-    font-size: 4.8em;
+    font-size: 5em;
   }
   .second_header {
     font-size: 3.2em;
   }
-  ul {
-    list-style: none;
-  }
   li {
     display: block;
+    list-style: none;
   }
   a {
     color: #F505AD;
