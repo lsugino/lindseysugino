@@ -52,6 +52,20 @@ strong {
   color: #F505AD;
 }
 
+/*tablet*/
+@media screen and (max-width: 758px) {
+  body {
+    font-weight: bold;
+  }
+  .well {
+    width: 90%;
+  }
+  .main_header {
+    font-size: 2.5em;
+  }
+}
+
+/*iphone*/
 @media only screen and (max-device-width: 480px) {
   body {
     font-weight: bold;
