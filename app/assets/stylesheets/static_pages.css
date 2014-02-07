@@ -62,7 +62,7 @@ strong {
     font-size: 2em;
   }
   li {
-    display: none;
+    display: block;
   }
   a {
     color: #F505AD;
