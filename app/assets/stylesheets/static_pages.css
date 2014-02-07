@@ -52,6 +52,9 @@ strong {
 }
 
 @media only screen and (max-device-width: 480px) {
+  body {
+    font-weight: bold;
+  }
   .well {
     width: 90%;
   }
@@ -59,7 +62,7 @@ strong {
     font-size: 5.2em;
   }
   .second_header {
-    font-size: 3.2em;
+    font-size: 3.4em;
   }
   li {
     display: block;
