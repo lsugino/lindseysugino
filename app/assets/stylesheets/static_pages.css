@@ -61,15 +61,14 @@ strong {
     width: 90%;
   }
   .main_header {
-    font-size: 2em;
+    font-size: 4em;
   }
   .second_header {
-    font-size: 1.5em;
+    font-size: 1.6em;
   }
   a {
-    /*color: #F505AD;*/
-    color: blue;
-    font-size: 2em;
+    color: #F505AD;
+    font-size: 1.4em;
   }
 }
 
