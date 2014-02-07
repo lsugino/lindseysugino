@@ -65,6 +65,7 @@ strong {
     display: none;
   }
   a {
+    color: #F505AD;
     font-size: 3em;
   }
   a:hover {
