@@ -59,4 +59,8 @@ strong {
   .main_header {
     font-size: 4.5em;
   }
+
+  .second_header {
+    font-size: 2em;
+  }
 }
