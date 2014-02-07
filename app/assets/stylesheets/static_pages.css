@@ -56,10 +56,13 @@ strong {
     width: 90%;
   }
   .main_header {
-    font-size: 4.7em;
+    font-size: 4.8em;
   }
   .second_header {
-    font-size: 3em;
+    font-size: 3.2em;
+  }
+  ul {
+    list-style: none;
   }
   li {
     display: block;
