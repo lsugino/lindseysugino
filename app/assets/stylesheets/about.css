@@ -35,6 +35,9 @@ p {
     margin-left: 5%;
     margin-right: 5%;
   }
+  #tagline {
+    font-size: 1.4em;
+  }
   p {
     font-size: 1.2em;
   }
@@ -42,6 +45,6 @@ p {
     font-size: 1.2em;
   }
   #back_link {
-    font-size: 1.2em;
+    font-size: 1.3em;
   }
 }
