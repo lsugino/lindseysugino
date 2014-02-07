@@ -59,10 +59,10 @@ strong {
     width: 90%;
   }
   .main_header {
-    font-size: 5.2em;
+    font-size: 4em;
   }
   .second_header {
-    font-size: 3.4em;
+    font-size: 3em;
   }
   li {
     display: block;
@@ -70,9 +70,9 @@ strong {
   }
   a {
     color: #F505AD;
-    font-size: 3em;
+    font-size: 2em;
   }
   a:hover {
-    font-size: 3em;
+    font-size: 2em;
   }
 }
