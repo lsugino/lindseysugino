@@ -20,8 +20,10 @@
 }
 
 .main_header {
+  color: white;
 	font-size: 4em;
   margin-bottom: 22px; 
+  margin-top: 22px;
 }
 
 ul {
