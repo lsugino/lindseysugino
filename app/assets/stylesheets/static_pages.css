@@ -53,6 +53,10 @@ strong {
 
 @media only screen and (max-device-width: 480px) {
   .well {
-    background-color: grey;
+    width: 80%;
+  }
+
+  .main_header {
+    font-size: 4.5em;
   }
 }
