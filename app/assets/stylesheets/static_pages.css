@@ -57,10 +57,11 @@ strong {
     font-weight: bold;
   }
   .well {
+    height: 15%;
     width: 90%;
   }
   .main_header {
-    font-size: 2.7em;
+    font-size: 2.5em;
   }
   .second_header {
     font-size: 2em;
