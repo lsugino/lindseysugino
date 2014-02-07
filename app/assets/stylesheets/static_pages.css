@@ -55,12 +55,19 @@ strong {
   .well {
     width: 80%;
   }
-
   .main_header {
     font-size: 4.5em;
   }
-
   .second_header {
     font-size: 2em;
+  }
+  li {
+    display: none;
+  }
+  a {
+    font-size: 3em;
+  }
+  a:hover {
+    font-size: 3em;
   }
 }
