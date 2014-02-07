@@ -53,7 +53,7 @@ strong {
 
 @media only screen and (max-device-width: 480px) {
   .well {
-    width: 80%;
+    width: 90%;
   }
   .main_header {
     font-size: 4.7em;
