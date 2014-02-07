@@ -53,7 +53,7 @@ strong {
 }
 
 /*tablet*/
-@media screen and (max-width: 524px) {
+@media screen and (max-width: 768px) {
   body {
     font-weight: bold;
   }
@@ -67,7 +67,8 @@ strong {
     font-size: 1.5em;
   }
   a {
-    color: #F505AD;
+    /*color: #F505AD;*/
+    color: blue;
     font-size: 2em;
   }
 }
