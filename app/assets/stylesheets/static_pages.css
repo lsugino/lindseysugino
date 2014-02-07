@@ -51,4 +51,8 @@ strong {
   color: #F505AD;
 }
 
-
+@media only screen and (max-device-width: 480px) {
+  .well {
+    background-color: grey;
+  }
+}
