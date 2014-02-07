@@ -58,6 +58,7 @@ strong {
     font-weight: bold;
   }
   .well {
+    height: 60%;
     width: 90%;
   }
   .main_header {
