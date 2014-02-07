@@ -53,7 +53,7 @@ strong {
 }
 
 /*tablet*/
-@media screen and (max-width: 758px) {
+@media screen and (max-width: 524px) {
   body {
     font-weight: bold;
   }
