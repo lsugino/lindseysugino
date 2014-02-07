@@ -28,7 +28,7 @@ p {
 
 @media only screen and (max-device-width: 480px) {
   #about_header {
-    font-size: 5em;
+    font-size: 3em;
   }
   .about_well {
     width: 90%;
@@ -36,9 +36,9 @@ p {
     margin-right: 5%;
   }
   p {
-    font-size: 3em;
+    font-size: 1.2em;
   }
   #email {
-    font-size: 3em;
+    font-size: 1.2em;
   }
 }
