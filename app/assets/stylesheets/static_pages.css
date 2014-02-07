@@ -63,7 +63,7 @@ strong {
   }
   li {
     display: block;
-    list-style: none;
+    list-style-type: none;
   }
   a {
     color: #F505AD;
