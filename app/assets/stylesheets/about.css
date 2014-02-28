@@ -76,6 +76,18 @@
     margin-left: 5%;
     margin-right: 5%;
   }
+  #col_left {
+    clear: both;
+    width: 100%;
+  }
+  #col_cent {
+    clear: both;
+    width: 100%;
+  }
+  #col_right {
+    clear: both;
+    width: 100%;
+  }
   #tagline {
     font-size: 1.4em;
   }
