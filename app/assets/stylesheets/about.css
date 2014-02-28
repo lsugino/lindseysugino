@@ -87,7 +87,8 @@
   #col_cent {
     clear: both;
     width: 100%;
-    margin-top: 15px;
+    margin-top: 10px;
+    margin-bottom: 0px;
   }
   #col_right {
     clear: both;
