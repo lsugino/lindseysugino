@@ -1,20 +1,29 @@
 <div class="about_well">
 	<h1 id="about_header">ABOUT ME</h1>
-	<p id="tagline">
-		My name is Lindsey Sugino & I'm a Web Developer living in San Francisco.
-	</p>
-	<p>
-		I recently graduated from Dev BootCamp, an intensive 9-week web development program. While at DBC, I spent over 900 hours writing code, watching code break, & figuring out a solution.
-	</p>
-	<p>
-		Before DBC, I was in online marketing with a focus on display advertising, email marketing, social media, & user experience design. Spending 2 years A/B testing and optimizing web pages allows me to write code for apps that are user-friendly and business-optimized.
-	</p>
-	<p>
-		I'm excited about web development because when I code something, it constantly expands my understanding of both the problem and the solution. There is no limit to what I can learn to improve my craft, and I love being a serial learner.
-	</p>
-	<p>Get in touch with me at <%= mail_to "lindseysugino@gmail.com", "lindseysugino@gmail.com", :id => 'email' %>.
-	</p>
-	<p>
+	<!-- <div id="tagline">
+		My name is Lindsey Sugino &<br> I'm a Web Developer living in San Francisco.
+	</div> -->
+	<div class="col_well">
+		<div id="col_left">
+			<h2>What I do:</h2>
+			I develop web applications using the following: Ruby, Ruby on Rails, Sinatra, HTML, CSS,
+			Javascript, & Java. I practice agile development and believe that testing is not a separate phase, but an integral part of software development.
+
+			<ul>
+		</div>
+		<div id="col_cent">
+			<h2>How I got here:</h2>
+			 I'm a Dev BootCamp graduate, where I spent over 900 hours writing code, watching code break, & figuring out a solution.
+
+			Before DBC, I worked on display advertising, email marketing, social media, & user experience design. 
+		</div>
+		<div id="col_right">
+			<h2>Why I do this:</h2>I'm excited about web development because when I code, it constantly expands my understanding of both the problem and the solution. There is no limit to what I can learn to improve my craft, and I love being a serial learner.
+		</div>
+	</div>
+	<div id="contact">Get in touch with me at <%= mail_to "lindseysugino@gmail.com", "lindseysugino@gmail.com", :id => 'email' %>.
+	</div>
+	<div>
 		<%= link_to "<< Take me back", root_path, :id => 'back_link' %>
-	</p><br>
+	</div><br>
 </div>

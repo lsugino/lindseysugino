@@ -34,6 +34,8 @@ ul {
 
 li {
   display: inline;
+/*  list-style-type:circle;*/
+  font-size: 1.3em;
 }
 
 a {
@@ -42,10 +44,6 @@ a {
 
 a:hover {
   color: pink;
-}
-
-li {
-  font-size: 1.3em;
 }
 
 strong {
@@ -98,3 +96,4 @@ strong {
     font-size: 1.2em;
   }
 }
+
