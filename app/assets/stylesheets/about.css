@@ -77,7 +77,7 @@
     margin-right: 5%;
   }
   .column > h2 {
-    margin-bottom: 5px;
+    margin-bottom: 8px;
   }
   #col_left {
     clear: both;
@@ -87,7 +87,7 @@
   #col_cent {
     clear: both;
     width: 100%;
-    margin-top: 10px;
+    margin-top: 15px;
   }
   #col_right {
     clear: both;
