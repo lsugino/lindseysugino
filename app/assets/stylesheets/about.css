@@ -89,7 +89,7 @@
   #col_right {
     clear: both;
     width: 100%;
-    margin: 10px, 0, 30px, 0;
+    /*margin: 10px, 0, 30px, 0;*/
     margin-bottom: 30px;
   }
   #tagline {
