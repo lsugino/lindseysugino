@@ -76,6 +76,9 @@
     margin-left: 5%;
     margin-right: 5%;
   }
+  .column > h2 {
+    margin-bottom: 5px;
+  }
   #col_left {
     clear: both;
     width: 100%;
@@ -84,12 +87,12 @@
   #col_cent {
     clear: both;
     width: 100%;
-    margin-top: 30px;
+    margin-top: 10px;
   }
   #col_right {
     clear: both;
     width: 100%;
-    margin-bottom:30px;
+    margin-bottom: 30px;
   }
   #tagline {
     font-size: 1.4em;
