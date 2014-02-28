@@ -67,6 +67,12 @@
   font-size: 1.3em;
 }
 
+@media screen and (max-width: 768px) {
+  .about_well {
+    width: 90%;
+  }
+}
+
 @media only screen and (max-device-width: 480px) {
   #about_header {
     font-size: 3.2em;
