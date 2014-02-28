@@ -17,6 +17,10 @@
   border: white;
 }
 
+#col_left > h2 {
+  color: #F505AD;
+}
+
 #col_cent {
   float: left;
   width: 31.3%;
@@ -26,11 +30,19 @@
   margin-bottom: 20px;
 }
 
+#col_cent > h2 {
+  color: #F505AD;
+}
+
 #col_right {
   float: right;
   width: 31.3%;
   height: 100%;
   border-color: white;
+}
+
+#col_right > h2 {
+  color: #F505AD;
 }
 
 #contact {
@@ -39,16 +51,10 @@
 }
 
 #about_header {
+  color: #F505AD;
   font-weight: bold;
   font-size: 3.2em;
-  color: #F505AD;
-  margin-bottom: 5px;
-}
-
-h2 {
-  margin: 7px 0;
-  color: #F505AD;
-  font-weight: bold;
+  margin-bottom: 0;
 }
 
 #tagline {
@@ -82,4 +88,5 @@ h2 {
   #back_link {
     font-size: 1.3em;
   }
+
 }
