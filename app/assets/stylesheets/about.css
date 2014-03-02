@@ -10,15 +10,17 @@
   height: 100%;
 }
 
+.about_h2 {
+  color: #F505AD;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 #col_left {
   float: left;
   width: 31.3%;
   height: 100%;
   border: white;
-}
-
-#col_left > h2 {
-  color: #F505AD;
 }
 
 #col_cent {
@@ -30,19 +32,11 @@
   margin-bottom: 20px;
 }
 
-#col_cent > h2 {
-  color: #F505AD;
-}
-
 #col_right {
   float: right;
   width: 31.3%;
   height: 100%;
   border-color: white;
-}
-
-#col_right > h2 {
-  color: #F505AD;
 }
 
 #contact {
@@ -88,13 +82,11 @@
     clear: both;
     width: 100%;
     margin-top: 10px;
-    margin-bottom: 5px;
   }
   #col_right {
     clear: both;
     width: 100%;
     margin-top: 6px;
-    margin-bottom: 30px;
   }
   #tagline {
     font-size: 1.4em;
@@ -104,9 +96,6 @@
   }
   #back_link {
     font-size: 1.3em;
-  }
-  #contact {
-    margin-top: 20px;
   }
 }
 
