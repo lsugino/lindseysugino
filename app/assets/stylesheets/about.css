@@ -1,13 +1,13 @@
 .about_well {
   text-align: center;
-  width: 60%;
-  margin-left: 20%;
-  margin-right: 20%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .col_well {
-  width: 100%;
-  height: 100%;
+  overflow: hidden;
+  margin-bottom: 20px;
 }
 
 .about_h2 {
@@ -30,7 +30,6 @@
   height: 100%;
   margin: 0 3%;
   border: white;
-  margin-bottom: 20px;
 }
 
 #col_right {
@@ -70,17 +69,11 @@
   }
 }
 
-@media screen and (max-width: 768px) {
-  #about_header {
-    font-size: 3.2em;
-  }
+@media screen and (max-width: 850px) {
   .about_well {
-    width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
-  }
-  .column > h2 {
-    margin-bottom: 8px;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
   }
   #col_left {
     clear: both;
@@ -98,7 +91,20 @@
     clear: both;
     width: 100%;
     margin-top: 6px;
-    margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #about_header {
+    font-size: 3.2em;
+  }
+  .about_well {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .column > h2 {
+    margin-bottom: 8px;
   }
   #tagline {
     font-size: 1.4em;
@@ -124,21 +130,17 @@
     margin-bottom: 8px;
   }
   #col_left {
-    clear: both;
     width: 100%;
     margin-bottom: 0;
   }
   #col_cent {
-    clear: both;
     width: 100%;
     margin-top: 10px;
     margin-bottom: 5px;
   }
   #col_right {
-    clear: both;
     width: 100%;
     margin-top: 6px;
-    margin-bottom: 30px;
   }
   #tagline {
     font-size: 1.4em;
