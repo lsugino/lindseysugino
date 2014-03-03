@@ -14,6 +14,7 @@
   color: #F505AD;
   margin-top: 10px;
   margin-bottom: 10px;
+  font-size: 1.5em;
 }
 
 #col_left {
@@ -61,6 +62,14 @@
   font-size: 1.3em;
 }
 
+@media screen and (max-width: 1000px) {
+  .about_well {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
+
 @media screen and (max-width: 768px) {
   #about_header {
     font-size: 3.2em;
@@ -82,11 +91,14 @@
     clear: both;
     width: 100%;
     margin-top: 10px;
+    margin-bottom: 0;
+    margin-left: -1px;
   }
   #col_right {
     clear: both;
     width: 100%;
     margin-top: 6px;
+    margin-bottom: 20px;
   }
   #tagline {
     font-size: 1.4em;
