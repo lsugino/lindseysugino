@@ -51,9 +51,6 @@ strong {
 
 /*tablet*/
 @media screen and (max-width: 768px) {
-  body {
-    font-weight: bold;
-  }
   .well {
     height: 45%;
     width: 90%;

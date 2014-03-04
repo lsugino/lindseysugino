@@ -1,8 +1,10 @@
+
+
 .about_well {
   text-align: center;
-  width: 90%;
-  margin-left: 5%;
-  margin-right: 5%;
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 .col_well {
@@ -14,7 +16,8 @@
   color: #F505AD;
   margin-top: 10px;
   margin-bottom: 10px;
-  font-size: 1.5em;
+  font-size: 1.6em;
+  font-weight: bold;
 }
 
 #col_left {
@@ -44,6 +47,10 @@
   margin-bottom: 15px;
 }
 
+#email {
+  font-size: 1.2em;
+}
+
 #about_header {
   color: #F505AD;
   font-weight: bold;
@@ -70,6 +77,7 @@
 }
 
 @media screen and (max-width: 850px) {
+  
   .about_well {
     width: 70%;
     margin-left: 15%;
@@ -78,19 +86,17 @@
   #col_left {
     clear: both;
     width: 100%;
-    margin-bottom: 0;
   }
   #col_cent {
     clear: both;
     width: 100%;
     margin-top: 10px;
-    margin-bottom: 0;
     margin-left: -1px;
   }
   #col_right {
     clear: both;
     width: 100%;
-    margin-top: 6px;
+    margin-top: 10px;
   }
 }
 
