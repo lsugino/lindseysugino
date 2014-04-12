@@ -12,16 +12,7 @@
  *= require_tree .
  */
 
-body {
-	margin: 0;
-	background-color: #141414;
-	color: white;
-	font-family: 'Alegreya Sans', sans-serif;
-	word-spacing: 1px;
-	letter-spacing: 1px;
-  font-weight: bold;
-}
-
-a {
-  font-weight: bold;
+body{
+  background:black repeat top left;
+  font-family:Arial;
 }

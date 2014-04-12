@@ -1,16 +1,74 @@
-<div class='container'>
-	<div class='well'>
-		<h1 class='main_header'><strong>Hi,</strong> I'm a Web Developer</h1>
-		<h2 class='second_header'>I BELIEVE A GOOD USER EXPERIENCE IS GOOD MARKETING</h2> 
-		<ul>
-			<li><%= link_to "About Me", about_path %></li>
-			<li>•</li>
-			<li><%= link_to "LinkedIn", "http://www.linkedin.com/in/lindseysugino", :target => "_blank" %>
-			</li>
-			<li>•</li>
-			<li><%= link_to "GitHub", "https://github.com/lsugino", :target => "_blank" %></li>
-			<li>•</li>
-			<li><%= link_to "Twitter", "https://twitter.com/lindseysugino", :target => "_blank" %></li>
-		</ul>
-	</div>
+<div class="content">
+	<h1 class="title fadeInLeft animated">LINDSEY SUGINO <span class="job">{web developer}</span></h1>
+
+	<ul id="sdt_menu" class="sdt_menu">
+		<li>
+			<a href="#">
+				<%= image_tag("linds_square.jpg") %>
+				<span class="sdt_active"></span>
+				<span class="sdt_wrap">
+					<span class="sdt_link">About me</span>
+					<span class="sdt_descr">Get to know me</span>
+				</span>
+			</a>
+		</li>
+
+		<li>
+			<a href="#">
+				<%= image_tag("resume.jpg") %>
+				<span class="sdt_active"></span>
+				<span class="sdt_wrap">
+					<span class="sdt_link">Resume</span>
+					<span class="sdt_descr">My experiences</span>
+				</span>
+			</a>
+			<div class="sdt_box">
+					<a href="#">Programming</a>
+					<a href="#">Marketing</a>
+			</div>
+		</li>
+		
+		<li>
+			<a href="#">
+				<%= image_tag("code.png") %>
+				<span class="sdt_active"></span>
+				<span class="sdt_wrap">
+					<span class="sdt_link">Projects</span>
+					<span class="sdt_descr">I like to code</span>
+				</span>
+			</a>
+			<div class="sdt_box">
+				<a href="#">GitHub</a>
+			</div>
+		</li>
+
+		<li>
+			<a href="#">
+				<%= image_tag("blogger.jpg") %>
+				<span class="sdt_active"></span>
+				<span class="sdt_wrap">
+					<span class="sdt_link">Blog</span>
+					<span class="sdt_descr">I write things</span>
+				</span>
+			</a>
+		</li>
+
+		<li>
+			<a href="#">
+				<%= image_tag("twitter3.png") %>
+				<span class="sdt_active"></span>
+				<span class="sdt_wrap">
+					<span class="sdt_link">Contact Me</span>
+					<span class="sdt_descr">I'm friendly</span>
+				</span>
+			</a>
+			<div class="sdt_box">
+				<a href="#">Email</a>
+				<a href="#">Twitter</a>
+				<a href="#">Linkedin</a>
+			</div>
+		</li>
+	</ul>
 </div>
+        
+		
