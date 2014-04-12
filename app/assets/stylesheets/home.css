@@ -152,10 +152,10 @@ ul.sdt_menu li div.sdt_box a:hover{
 
 #email_icon {
   display: inline-block;
-  width: 13.1px;
+  width: 13.3px;
   height: 10px;
   background: url(email_icon.svg);
-  background-size: 13.1px 9.9px;
+  background-size: 13.3px 9.9px;
   margin-right: 8px;
 }
 
