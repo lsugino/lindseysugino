@@ -5,7 +5,7 @@ Lindseysugino::Application.routes.draw do
   get '/about' => 'static_pages#about'
   get '/resume' => 'static_pages#resume'
   get '/projects' => 'static_pages#projects'
-  get '/contact-me' => 'static_pages#contact-me'
+  get '/contact' => 'static_pages#contact'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

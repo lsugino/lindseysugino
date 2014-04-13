@@ -1,3 +1,5 @@
+<%= render partial: "navbar" %>
+
 <div class="about_well">
 	<h1 id="about_header">ABOUT ME</h1>
 	<!-- <div id="tagline">
@@ -18,10 +20,5 @@
 		<div class="column" id="col_right">
 			<h2 class="about_h2">Why I do this:</h2>I'm excited about web development because when I code, it constantly expands my understanding of both the problem and the solution. There is no limit to what I can learn to improve my craft, and I love being a serial learner.
 		</div>
-	</div>
-	<div id="contact">Get in touch with me at <%= mail_to "lindseysugino@gmail.com", "lindseysugino@gmail.com", :id => 'email' %>.
-	</div>
-	<div>
-		<%= link_to "<< Take me back", root_path, :id => 'back_link' %>
 	</div><br>
 </div>

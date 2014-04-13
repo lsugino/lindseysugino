@@ -14,5 +14,6 @@
 
 body{
   background:black repeat top left;
-  font-family:Arial;
+  /*font-family:Arial;*/
+  font-family:"Myriad Pro", "Trebuchet MS", sans-serif;
 }
