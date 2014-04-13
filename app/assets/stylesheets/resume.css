@@ -10,6 +10,21 @@ li.col3 { margin-left: 30em; }
   margin-top: -3.6em;
 }
 
+/*four columns*/
+li.cl1 { margin-left: 0em; }
+li.cl2 { margin-left: 10em; }
+li.cl3 { margin-left: 20em; }
+li.cl4 { margin-left: 30em; }
+li.cl5 { margin-left: 40em; }
+
+.column_5 li {
+  line-height: 1.2em;
+}  
+
+.column_5 li.reset {
+  margin-top: -2.4em;
+}
+
 .major {
 	margin-top: 7px;
 	margin-bottom: 30px;
