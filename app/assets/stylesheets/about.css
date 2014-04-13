@@ -1,4 +1,29 @@
 .column {
-	color: white;
+	display: inline;
 }
 
+.col_left {
+	float: left;
+	width: 30%;
+	margin-right: 4%;
+}
+
+.col_cent {
+	float: left;
+	width: 30%;
+	margin-right: 4%;
+}
+
+.col_right {
+	float: left;
+	width: 30%;
+}
+
+.abt_hdr {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.p_top {
+	margin-top: 8px;
+}
