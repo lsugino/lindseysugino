@@ -1,0 +1,36 @@
+li.col1 { margin-left: 0em; }
+li.col2 { margin-left: 15em; }
+li.col3 { margin-left: 30em; }
+
+.column_3 li {
+  line-height: 1.2em;
+}  
+
+.column_3 li.reset {
+  margin-top: -3.6em;
+}
+
+/*.edu {
+	margin-top: 10px;
+}*/
+
+.major {
+	margin-top: 7px;
+	margin-bottom: 30px;
+}
+
+.res_sp {
+	margin-top: 8px;
+}
+
+.left {
+	display: inline;
+	float: left;
+	width: 50%;
+}
+
+.right {
+	display: inline;
+	float: left;
+	width: 50%;
+}

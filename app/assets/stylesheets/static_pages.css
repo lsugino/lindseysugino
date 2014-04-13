@@ -6,7 +6,24 @@
 	color: #FF1975;
 }
 
-.header {
+.header_1 {
 	padding-top: 70px;
 	color: #FF1975;
+}
+
+.marg_btm {
+	margin-bottom: 0;
+}
+
+.marg_top {
+	margin-top: 0;
+}
+
+.marg_left {
+	margin-left: 10%;
+}
+
+
+.list_none {
+	list-style: none;
 }

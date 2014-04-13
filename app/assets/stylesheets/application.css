@@ -16,4 +16,13 @@ body{
   background:black repeat top left;
   /*font-family:Arial;*/
   font-family:"Myriad Pro", "Trebuchet MS", sans-serif;
+  color: white;
+}
+
+h2 {
+	color: #FF1975;
+}
+
+h3 {
+	color: #A3A3A3;
 }
