@@ -1,6 +1,7 @@
+/*three columns*/
 li.col1 { margin-left: 0em; }
-li.col2 { margin-left: 15em; }
-li.col3 { margin-left: 30em; }
+li.col2 { margin-left: 17em; }
+li.col3 { margin-left: 34em; }
 
 .column_3 li {
   line-height: 1.2em;
