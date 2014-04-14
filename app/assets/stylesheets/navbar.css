@@ -15,6 +15,7 @@
 
 #nav li#homepage {
 	float: left; 
+	padding-left: 30px;
 }
 
 #nav li a {
@@ -27,4 +28,8 @@
 
 #nav li a:hover {
 	color: #FF1975;
+}
+
+#pad_right {
+	padding-right: 40px;
 }
