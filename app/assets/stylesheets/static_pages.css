@@ -23,7 +23,18 @@
 	margin-left: 10%;
 }
 
-
 .list_none {
 	list-style: none;
+}
+
+.left {
+	display: inline;
+	float: left;
+	width: 50%;
+}
+
+.right {
+	display: inline;
+	float: left;
+	width: 50%;
 }

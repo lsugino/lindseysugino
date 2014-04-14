@@ -35,14 +35,3 @@ li.cl5 { margin-left: 40em; }
 	margin-top: 8px;
 }
 
-.left {
-	display: inline;
-	float: left;
-	width: 50%;
-}
-
-.right {
-	display: inline;
-	float: left;
-	width: 50%;
-}

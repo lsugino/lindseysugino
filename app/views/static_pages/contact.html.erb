@@ -1,5 +1,15 @@
 <%= render partial: "navbar" %>
 
 <div class="container">
-	<h1 class="header_1">Coming Soon...</h1>
+	<div id="cont_info">
+		<h1 class="header_1">Contact Me</h1>
+		<p class="cont"><span id="email_icon"></span>Email: <%= mail_to "lindseysugino@gmail.com" %></p>
+		<p class="cont"><span id="twitter_icon"></span>Twitter: <%= link_to "@lindseysugino", "https://twitter.com/lindseysugino", :target => "_blank" %></p>
+		<p class="cont"><span id="linkedin_icon"></span>LinkedIn: <%= link_to "www.linkedin.com/in/lindseysugino", "https://www.linkedin.com/in/lindseysugino", :target => "_blank" %> </p>
+	</div>
+
+<!-- Implement later -->
+<!-- 	<div class="right" id="cont_form">
+		<h1 class="pink">Contact Form</h1>
+	</div> -->
 </div>
