@@ -1,6 +1,11 @@
 <div>
 	<ul id="nav">
-		<li id="homepage"><%= link_to "LINDSEY SUGINO", "/" %></li>
+		<li class="bold" id="homepage">
+			<%= link_to :root do%>
+				<%= image_tag("fam_crest.svg", id: "fam_crest") %>
+				<span>Lindsey Sugino</span>
+			<% end %>
+		</li>
 		<li id="pad_right"><%= link_to "Contact", :contact %></li>
 		<li><%= link_to "Projects", :projects %></li>
 		<li><%= link_to "Resume", :resume %></li>

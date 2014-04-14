@@ -16,14 +16,15 @@
 #nav li#homepage {
 	float: left; 
 	padding-left: 30px;
+	font-size: 1em;
 }
 
 #nav li a {
 	display: block;
 	padding: 8px 17px;
 	text-decoration: none;
-	font-weight: bold;
 	color: white;
+	letter-spacing: 1.2px;
 }
 
 #nav li a:hover {
@@ -32,4 +33,11 @@
 
 #pad_right {
 	padding-right: 40px;
+}
+
+#fam_crest {
+	height: 17px;
+	width: 17px;
+	vertical-align: middle;
+	background-color: #202020;
 }
