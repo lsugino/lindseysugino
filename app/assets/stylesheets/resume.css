@@ -1,5 +1,23 @@
+@media only screen and (max-width: 700px) {
+	.tagline {
+		font-size: 1.7em;
+	}
+}
+
+.pad_top {
+	padding-top: 12px;
+}
+
+.marg_lft {
+	margin-left: 0;
+}
+
+.col_marg {
+	margin-top: 0;
+	margin-bottom: 0;
+}
 /*three columns*/
-li.col1 { margin-left: 0em; }
+/*li.col1 { margin-left: 0em; }
 li.col2 { margin-left: 16em; }
 li.col3 { margin-left: 32em; }
 
@@ -9,10 +27,10 @@ li.col3 { margin-left: 32em; }
 
 .column_3 li.reset {
   margin-top: -3.6em;
-}
+}*/
 
 /*four columns*/
-li.cl1 { margin-left: 0em; }
+/*li.cl1 { margin-left: 0em; }
 li.cl2 { margin-left: 10em; }
 li.cl3 { margin-left: 20em; }
 li.cl4 { margin-left: 30em; }
@@ -35,3 +53,4 @@ li.cl5 { margin-left: 40em; }
 	margin-top: 8px;
 }
 
+*/
