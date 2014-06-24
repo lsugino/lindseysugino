@@ -4,6 +4,8 @@ Lindseysugino::Application.routes.draw do
   get '/' => 'static_pages#home'
   get '/about' => 'static_pages#about'
   get '/resume' => 'static_pages#resume'
+  get '/marketing' => 'static_pages#marketing'
+  get '/programming' => 'static_pages#programming'
   get '/projects' => 'static_pages#projects'
   get '/contact' => 'static_pages#contact'
 
