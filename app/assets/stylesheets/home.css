@@ -176,3 +176,9 @@ ul.sdt_menu li div.sdt_box a:hover{
   background-size: cover;
   margin-right: 8px;
 }
+
+@media only screen and (max-width: 680px) {
+  .job {
+    display: block;
+  }
+}
