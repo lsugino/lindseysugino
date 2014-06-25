@@ -16,41 +16,15 @@
 	margin-top: 0;
 	margin-bottom: 0;
 }
-/*three columns*/
-/*li.col1 { margin-left: 0em; }
-li.col2 { margin-left: 16em; }
-li.col3 { margin-left: 32em; }
 
-.column_3 li {
-  line-height: 1.2em;
-}  
-
-.column_3 li.reset {
-  margin-top: -3.6em;
-}*/
-
-/*four columns*/
-/*li.cl1 { margin-left: 0em; }
-li.cl2 { margin-left: 10em; }
-li.cl3 { margin-left: 20em; }
-li.cl4 { margin-left: 30em; }
-li.cl5 { margin-left: 40em; }
-
-.column_5 li {
-  line-height: 1.2em;
-}  
-
-.column_5 li.reset {
-  margin-top: -2.4em;
+h3 a {
+	color: #A3A3A3;
 }
 
-.major {
-	margin-top: 7px;
-	margin-bottom: 30px;
+#experiences p {
+	margin-top: 5px;
 }
 
-.res_sp {
-	margin-top: 8px;
+#edu p {
+	margin-top: 5px;
 }
-
-*/
