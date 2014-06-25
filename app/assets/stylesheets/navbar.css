@@ -15,15 +15,14 @@
 
 #nav li#homepage {
 	float: left; 
-	padding-left: 30px;
+	padding-left: 10%;
 }
 
 #nav li a {
 	display: block;
-	padding: 8px 17px;
+	padding: 8px 8px 8px 0;
 	text-decoration: none;
 	color: white;
-	letter-spacing: 1.2px;
 }
 
 #nav li a:hover {
@@ -31,7 +30,7 @@
 }
 
 #pad_right {
-	padding-right: 40px;
+	padding-right: 10%;
 }
 
 #fam_crest {
@@ -41,8 +40,12 @@
 	background-color: #202020;
 }
 
+.lft_marg {
+	padding-left: 2.5%;
+}
+
 /*** Dropdown ****************/
-#nav li ul {
+/*#nav li ul {
 	margin: 0;
 	padding: 0;
 	position: absolute;
@@ -62,4 +65,4 @@
 
 #nav li ul li a:hover {
 	width: auto;
-}
+}*/

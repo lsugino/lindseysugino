@@ -17,17 +17,32 @@
 	margin-bottom: 0;
 }
 
-h3 a {
+.list_none li span {
+	font-weight: bold;
 	color: #A3A3A3;
 }
 
-#experiences p {
-	margin-top: 5px;
+h3 {
+	color: #FF1975;
+	text-decoration: underline;
 }
 
-#experiences h3 a:hover {
-	color: #FF1975;
+/*** Experience Section *******/
+
+#experiences p {
+	color: #A3A3A3;
+	margin: 5px 0 0 0;
 }
+
+#experiences ul {
+	margin-top: 3px;
+}
+
+#experiences li {
+	padding-right: 10px;
+}
+
+/*** Education Section *******/
 
 #edu p {
 	margin-top: 5px;
